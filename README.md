@@ -1,3 +1,5 @@
 # BigData-Project1
 Contains scripts that create and access databases of 3 different data models: relational db, mongo db, and cassandra (?).
-Each folder contains all the necessary script for one of these databases.
+Each folder contains all the necessary scripts for one of these databases.
+
+There is going to be one python client that will choose which databse to access depending on the user's requirements.
