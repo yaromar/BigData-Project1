@@ -10,7 +10,7 @@
 #The dataset used: 'ROSMAP_RNASeq_entrez.csv'.
 #Created the genes collection with:  mongoimport -d projectone -c genes --type csv --file ROSMAP_RNASeq_entrez.csv --headerline
 #
-#The documents have PATIENT_ID, DIAGNOSIS, and all entrez_ids as their field.
+#The documents have PATIENT_ID, DIAGNOSIS, and all entrez_ids as their fields.
 #########################
 
 
