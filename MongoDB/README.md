@@ -10,6 +10,9 @@ https://api.mongodb.com/python/current/
 
 To create a 'patients' collection run 'populate_patients_MONGO.py'.
 
+
+
+!!!!!OLD OLD OLD!!!!!!!
 PATIENT DOCUMENT TEMPLATE:
 Allows to:
 	1) query mean and std of gene expression associated with a particular disease
@@ -44,3 +47,4 @@ Allows to:
 		“interactions”: [“value_1”,…”value_n”]
 	}	
 }
+!!!!!!!!!!!!!
